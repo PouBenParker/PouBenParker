@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @PouBenParker
+- 👋 Hi, I’m @Fahrur
 - 👀 I’m interested in Computer Science, Artificial Intelligence and Data Science
-- 🌱 I’m currently learning at MIT online degree based on EDx and Harvard CS'50
-- 💞️ I’m looking to collaborate on everything that i want to do it
-- 📫 How to reach me? you can just dm me 
+- 🌱 I’m currently learning at MIT online degree based on EDx and Harvard online Summer School
+- 💞️ I’m looking to collaborate on AI project, Earth Observation, and Data Science project
+- 📫 How to reach me? DM me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love so much to watch anime. Especially Naruto, Bleach, and Jujutsu Kaisen
+- ⚡ Fun fact: i love to watch anime. Especially Naruto, Bleach, and Jujutsu Kaisen
 
 <!---
 PouBenParker/PouBenParker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
